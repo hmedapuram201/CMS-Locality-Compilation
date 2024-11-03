@@ -12,8 +12,7 @@ Link(s) to locality configurations:
 
 2022: https://www.cms.gov/files/document/cy-2022-locality-key.pdf
 
-2023: https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.marcumllp.com/wp-content/uploads/2023-PFS-Calculator-Based-CMS-Data-
-Files.xlsx&ved=2ahUKEwjl5ZPn_r6JAxVTLFkFHet3KDwQFnoECBYQAQ&usg=AOvVaw24jv2-1RgHECcxC2ivm_hE
+2023: https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.marcumllp.com/wp-content/uploads/2023-PFS-Calculator-Based-CMS-Data-Files.xlsx&ved=2ahUKEwjl5ZPn_r6JAxVTLFkFHet3KDwQFnoECBYQAQ&usg=AOvVaw24jv2-1RgHECcxC2ivm_hE
 
 
 ZIP Code to Carrier Files: https://www.cms.gov/medicare/payment/fee-schedules
