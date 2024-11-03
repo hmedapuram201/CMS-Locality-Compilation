@@ -4,7 +4,9 @@ Compilation of historical CMS locality and MAC numbers with all the associated Z
 This project does the following:
 
 (1) Create a master file for historic CMS Localities - by Year
+
 (2) Create a master look-up for a ZIP Code to CMS Locality - by Year
+
 (3) Create a master file for PFS coding configurations (both GPCI and National rates) to ZIP Code and Locality - by Year. 
 
 This project utilizes Juypter Notebooks to clean and query data with SQL Magic commands. Python is used for data validations and all visualizations.
