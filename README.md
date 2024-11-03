@@ -1,4 +1,4 @@
-# CMS-Locality-Compilation
+# CMS-PFS-Compiliation
 Compilation of historical CMS locality and MAC numbers with all the associated ZIP codes. 
 
 See below for context:
